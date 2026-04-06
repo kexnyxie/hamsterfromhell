@@ -53,7 +53,7 @@
   <h3>📬 Let's connect</h3>
 
   <p>
-    <a href="mailto:stilbonmercurius@gmail.com">
+    <a href="mailto:abcxyz.05.10.2007@gmail.com">
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
     </a>
     &nbsp;&nbsp;
@@ -61,7 +61,7 @@
       <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
     &nbsp;&nbsp;
-    <a href="https://discord.com/users/hamster_from_hell">
+    <a href="https://discord.com/users/nvcad_">
       <img src="https://img.shields.io/badge/Discord-@hamster_from_hell-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
     </a>
   </p>
