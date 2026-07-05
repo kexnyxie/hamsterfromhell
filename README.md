@@ -1,11 +1,11 @@
 <div align="center">
 
-  <h1>hamsterfromhell 🐹🔥</h1>
+  <h1> hi, I'm kenny </h1>
 
-  <h3>Nice to meet you! It's Nyx</h3>
+  <h3>Nice to meet you!</h3>
 
   <p>
-    Python enthusiast • CS50 '25 • Discord bots & small games • creative coder<br>
+    coding enthusiast • python/c++/js/c# • Discord bots & small games • creative coder<br>
   </p>
   <br><br>
 
@@ -44,8 +44,8 @@
 
   <ul style="list-style: none; padding-left: 0;">
     <li>👾 Obsessed with making my first real video game</li>
-    <li>🐍 Building Discord bots & small Python projects</li>
-    <li>📚 Grinding through CS50 problem sets</li>
+    <li>🐍 Building Discord bots & small games with python and c++</li>
+    <li>📚 Grinding through leetcode problem sets</li>
     <li>🌙 Late-night coding powered by coffee & curiosity</li>
   </ul>
 <br><br>
@@ -53,15 +53,15 @@
   <h3>📬 Let's connect</h3>
 
   <p>
-    <a href="mailto:abcxyz.05.10.2007@gmail.com">
+    <a href="mailto:nyxd052007@gmail.com">
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
     </a>
     &nbsp;&nbsp;
-    <a href="https://www.linkedin.com/in/anvika-d-53a407324/">
+    <a href="[https://www.linkedin.com/in/anvika-d-53a407324/](https://www.linkedin.com/in/anvika-dhiman-53a407324/)">
       <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
     &nbsp;&nbsp;
-    <a href="https://discord.com/users/nvcad_">
+    <a href="https://discord.com/users/kenny.kx">
       <img src="https://img.shields.io/badge/Discord-@nvcad_-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
     </a>
   </p>
