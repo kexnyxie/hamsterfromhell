@@ -1,25 +1,35 @@
+what do you think of this overall:
+
+
 <div align="center">
 
-  <h1> hi, I'm kenny </h1>
+  <h1> WELCOME 🐹🔥</h1>
 
   <h3>Nice to meet you!</h3>
+  <h4> You can address me as kenny, ken, nyx, or whatever you like. </h4>
+  <h4> 18, he/him 🇨🇦 </h4>
+  <br>
+  
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+<br>
+<br>
+
+
+![Profile views](https://komarev.com/ghpvc/?username=kexnyxie&color=ff69b4&label=hamster+visits&style=flat-square)
+
+<br>
 
   <p>
-    coding enthusiast • python/c++/js/c# • Discord bots & small games • creative coder<br>
+    DS Student • Python • C++ • JavaScript • C# • Discord bots & small games • creative coder<br>
   </p>
   <br><br>
-
-
-![Profile views](https://komarev.com/ghpvc/?username=hamsterfromhell&color=ff69b4&label=hamster+visits&style=flat-square)
-![Profile views](https://komarev.com/ghpvc/?username=hamsterfromhell&color=00ff9f&label=visits&style=flat-square)
-![Profile views](https://komarev.com/ghpvc/?username=hamsterfromhell&color=bb86fc&label=chaos+views&style=flat-square)
 
 
 
 <img src="https://github-readme-streak-stats-eight.vercel.app?user=hamsterfromhell&theme=tokyonight" alt="GitHub Streak" />
 <br><br>
 <img 
-  src="https://github-readme-activity-graph.vercel.app/graph?username=hamsterfromhell&theme=tokyonight&hide_border=true&bg_color=0d1117&color=9d7cd8&line=bb86fc&point=ffffff" 
+  src="https://github-readme-activity-graph.vercel.app/graph?username=kexnyxie&theme=tokyonight&hide_border=true&bg_color=0d1117&color=9d7cd8&line=bb86fc&point=ffffff" 
   alt="Activity Graph" 
   width="720"
 />
@@ -27,30 +37,46 @@
 
   <br><br>
   
-  <h3>⚡ Tools & Tech</h3>
+<h3>💻 Languages</h3>
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#"/>
+</p>
 
-  <p>
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-    <img src="https://img.shields.io/badge/Tkinter-GUI-blue?style=for-the-badge" alt="Tkinter"/>
-    <img src="https://img.shields.io/badge/Discord.py-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord.py"/>
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-    <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
-    <img src="https://img.shields.io/badge/CS50-EDC220?style=for-the-badge&logo=harvard&logoColor=black" alt="CS50"/>
-  </p>
+<h3>📊 Data Science</h3>
+<p>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-Learn"/>
+</p>
 
+<h3>🛠️ Tools & Frameworks</h3>
+<p>
+  <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity"/>
+  <img src="https://img.shields.io/badge/Tkinter-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Tkinter"/>
+  <img src="https://img.shields.io/badge/Discord.py-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord.py"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
+</p>
+
+<br>
   <br><br>
   
-  <h3>🔥 Currently</h3>
+  <h3>Currently:</h3>
 
   <ul style="list-style: none; padding-left: 0;">
-    <li>👾 Obsessed with making my first real video game</li>
-    <li>🐍 Building Discord bots & small games with python and c++</li>
-    <li>📚 Grinding through leetcode problem sets</li>
-    <li>🌙 Late-night coding powered by coffee & curiosity</li>
+    <li>Obsessed with making my first real video game</li>
+    <li>Building Discord bots & small games with python and c++</li>
+    <li>Grinding through leetcode problem sets</li>
+    <li>Late-night locking  powered by monster & insomnia</li>
   </ul>
 <br><br>
 
- <h3>📬 Let's connect</h3>
+ <h3>📬 if you wanna connect with me: </h3>
   <p>
     <a href="mailto:nyxd052007@gmail.com">
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
@@ -71,6 +97,6 @@
 
   <br>
 
-  <sub>Made with curiosity, chaos, and a dark theme obsession 🐹🌌</sub>
+  <sub>Made by a hamster with monster addiction 🐹🌌</sub>
 
 </div>
