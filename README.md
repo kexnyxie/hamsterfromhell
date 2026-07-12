@@ -26,7 +26,7 @@ Everything you need to know about me:
 
 
 
-<img src="https://github-readme-streak-stats-eight.vercel.app?user=hamsterfromhell&theme=tokyonight" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com?user=kexnyxie&theme=tokyonight" alt="GitHub Streak" />
 <br><br>
 <img 
   src="https://github-readme-activity-graph.vercel.app/graph?username=kexnyxie&theme=tokyonight&hide_border=true&bg_color=0d1117&color=9d7cd8&line=bb86fc&point=ffffff" 
