@@ -9,7 +9,6 @@
 
 ### 📊 Data Science Student @ University of Regina 🇨🇦
 > Building software at the intersection of automation, data infrastructure, and creative computing.
----
 
 ## 📈 Activity & Insights
 <div align="center">
@@ -27,7 +26,6 @@
     </tr>
   </table>
 </div>
----
 
 ## 🛠️ Tech Stack & Ecosystem
 
