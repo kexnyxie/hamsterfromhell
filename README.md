@@ -11,13 +11,13 @@ Building software that blends automation, data, and creativity. </h3>
 
 *Currently working on:*
 - University coursework
-- 📚 Study Bot: a Discord productivity bot
+- Gyeol Study Bot: a Discord productivity bot
   
 *Learning and Exploring:* <br>
 Python • JavaScript • C++ • C# • Unity 
 
 *Interests:* <br>
-Full-Stack • Automation • Data • Creative coding
+Full-Stack • Automation • Data • Creative coding • ML
 
   <br><br>
 <div align="center">
