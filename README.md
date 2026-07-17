@@ -25,17 +25,11 @@ Full-Stack • Automation • Data • Creative coding • ML
 <br>
 <br>
 
-  <p>
-    DS Student • Python • C++ • JavaScript • C# • Discord bots & small games • creative coder<br>
-  </p>
-  <br><br>
-
-
 
 <img src="https://streak-stats.demolab.com?user=kexnyxie&theme=tokyonight" alt="GitHub Streak" />
 <br><br>
 <img 
-  src="https://github-readme-activity-graph.vercel.app/graph?username=kexnyxie&theme=tokyonight&hide_border=true&bg_color=0d1117&color=9d7cd8&line=bb86fc&point=ffffff" 
+  src="https://github-readme-activity-graph.vercel.app/graph?username=kexyie&theme=tokyonight&hide_border=true&bg_color=0d1117&color=9d7cd8&line=bb86fc&point=ffffff" 
   alt="Activity Graph" 
   width="720"
 />
