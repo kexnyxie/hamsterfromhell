@@ -7,7 +7,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=9D7CD8&center=true&vCenter=true&width=550&lines=Welcome+to+my+humble+abode!;Exploring+Automation+%26+Data;Building+Creative+Software;Developing+Gyeol+Study+Bot" alt="Typing SVG" />
 </div>
 
-### 📊 Data Science Student @ University of Regina 🇨🇦
+### 📊 Data Science Student @ University of Regina
 > Building software at the intersection of automation, data infrastructure, and creative computing.
 
 ## 📈 Activity & Insights
