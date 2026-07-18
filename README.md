@@ -1,41 +1,51 @@
+<img src="assets/starfield-header.svg" width="100%"/>
 
-<img src="assets/starfield-header.svg" width="100%"/><div align="center">
+<div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=kexnyxie&label=Profile+Views&color=9d7cd8&style=flat-square" alt="Visitors"/>
+<br>
 
-<br><br>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=9D7CD8&center=true&vCenter=true&width=560&lines=%3E+whoami;kexnyxie;%3E+status;Building+Gyeol+Study+Bot;%3E+_" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=9D7CD8&center=true&vCenter=true&width=560&lines=%3E+boot+kexnyxie...;Initializing+workspace...;Loading+mission+archive...;Ready+_" alt="Typing SVG" />
 
 </div>
 
-<br>
+**Boot sequence complete.** Welcome aboard.
+
+| # | Module |
+|---|---|
+| 01 | [Operator profile](#01-operator-profile) |
+| 02 | [Active missions](#02-active-missions) |
+| 03 | [Mission logs](#03-mission-logs) |
+| 04 | [Core systems](#04-core-systems) |
+| 05 | [Contact protocols](#05-contact-protocols) |
+
+## [01] Operator profile
 
 ```
 $ whoami
 
-kexnyxie — Data Science student who builds productivity tools and
-game-inspired software with a space aesthetic. Automation by day,
-worldbuilding by night.
+kexnyxie — I build software that turns everyday productivity into
+something people actually enjoy using, from Discord automation to
+data-driven tools, all wrapped in a retro-futuristic interface.
+
+Worldbuilding by night, engineering by day.
 
 $ location
 Regina, Saskatchewan, Canada
 
-$ currently
-Building  → Gyeol Study Bot
-Studying  → Data Science @ University of Regina
-Learning  → German, French, Machine Learning
+$ status
+Operator         :: kexnyxie
+System build     :: v2026.07
+Runtime          :: Online
+Coffee cache     :: ██████████
+Current mission  :: Gyeol Study Bot v2
+Next objective   :: Machine learning
 ```
 
-<br>
+> **Mission:** build software that quietly improves people's everyday workflows while making technology feel a little more playful.
 
-> *"Half of what I build is meant to disappear quietly into the background, and the other half is meant to feel like a game."*
+### 📡 Telemetry engine
 
-<br>
 <div align="center">
-
-
-## 📡 Telemetry
 
 <table border="0">
   <tr>
@@ -50,67 +60,93 @@ Learning  → German, French, Machine Learning
 
 </div>
 
-<br>
+## [02] Active missions
 
-## 🛰️ Active Missions
+### ❖ Gyeol Study Bot
 
-**Gyeol Study Bot** — a Discord productivity companion
+*A Discord productivity companion that turns deep-work loops into an RPG.*
+
 ```
-Pomodoro sessions   ▣
-Daily quests        ▣
-XP & leveling       ▣
-Study analytics      ░
-Reminders             ░
+✓ Pomodoro core sessions
+██████████ 100%
 
-Status: in progress
+✓ Daily quest modules
+██████████ 100%
+
+✓ XP & leveling systems
+██████████ 100%
+
+◐ Study analytics engine
+██████░░░░ 60%
+
+○ Contextual reminders
+███░░░░░░░ 30%
 ```
 
-**Portfolio Site** — parchment/teal/gold single-page site cataloging past builds as project logs
+`Deployment status :: In progress`
+
+### ❖ Portfolio architecture
+
+*A parchment/teal/gold single-page archive cataloging past builds as mission logs.*
+
 ```
-Status: live → kexnyxie.github.io
+Status            ONLINE
+URL               kexnyxie.github.io
+Last deployment   v1.2.4
 ```
-<br>
 
-## 🗂️ Mission Archive
+## [03] Mission logs
 
-| Project | Type | Stack |
-|---|---|---|
-| Weather App | JS web app | JavaScript, API integration |
-| Desktop Calendar | Electron/Node.js app | Node.js, Figma-designed UI |
-| Venus | Discord bot | Python, Discord.py |
-| Number Guessing Game | CLI game | Python |
+```text
+[✓] MISSION 004 — CODENAME: VENUS
+ └── Type: Discord bot • Stack: Python, Discord.py
+ └── Note: Automation script for community server scaling.
+ └── Status: Archived
 
-<br>
+[✓] MISSION 003 — CODENAME: DESKTOP CALENDAR
+ └── Type: Productivity app • Stack: Node.js, Electron, Figma
+ └── Note: Minimalist desktop scheduler with a custom UI framework.
+ └── Status: Archived
 
-## 🛠️ Tech Stack
+[✓] MISSION 002 — CODENAME: WEATHER APP
+ └── Type: Web client • Stack: JavaScript (ES6), REST APIs
+ └── Note: Lightweight frontend handling async payload rendering.
+ └── Status: Archived
 
-**Core**
+[✓] MISSION 001 — CODENAME: NUMBER GUESSER
+ └── Type: CLI environment • Stack: Python
+ └── Note: Pure terminal-based logic loop. Baseline build.
+ └── Status: Archived
+```
+
+## [04] Core systems
+
+`Primary`
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-**Currently exploring**
+`Operational`
 
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
 ![Discord.py](https://img.shields.io/badge/Discord.py-5865F2?style=for-the-badge&logo=discord&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 
-<br>
+`Research`
 
-## 📬 Contact
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+
+## [05] Contact protocols
 
 ```
-$ help
+$ connect
 
-Available commands:
-
-  mail       → nyxd052007@gmail.com
-  linkedin   → /in/anvika-dhiman-53a407324
-  discord    → @ke.nx_
+response_time   usually within 24 hours
 ```
 
 <div align="center">
@@ -127,6 +163,10 @@ Available commands:
 
 <br><br>
 
-<sub>Driven by curiosity, data infrastructure, and caffeine 🌌</sub>
+<img src="https://komarev.com/ghpvc/?username=kexnyxie&label=Profile+Views&color=9d7cd8&style=flat-square" alt="Visitors"/>
+
+<br><br>
+
+<sub>Driven by curiosity, data infrastructure, and deep space aesthetics 🌌</sub>
 
 </div>
